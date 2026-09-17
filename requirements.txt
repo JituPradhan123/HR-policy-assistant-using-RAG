@@ -1,0 +1,22 @@
+python-dotenv
+
+langchain
+langchain-core
+langchain-community
+
+# LLM PROVIDER
+
+langchain-groq
+langchain-text-splitters 
+
+# Vector database
+
+faiss-cpu # For storring data ( facebook ai semilarity search ) fius
+
+# notebook
+jupyter
+ipykernel
+
+# web app
+
+streamlit
