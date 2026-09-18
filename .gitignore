@@ -1,5 +1,6 @@
 basicragenv
 
-rag.ipynb
+# Ignore Jupyter notebooks
+*.ipynb
 
 .env
