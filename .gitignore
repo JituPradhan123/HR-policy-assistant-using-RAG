@@ -4,3 +4,5 @@ basicragenv
 *.ipynb
 
 .env
+rag.ipynb
+vector_data
